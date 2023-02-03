@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2491ce9b-2754-4b4e-8409-7c3c097d078e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/Autowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/GetMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/PostMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/RestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/SpringApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/SpringBootApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/KundeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/KundeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/WebprogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/WebprogApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/KundeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/KundeTest/src/main/java/oslomet/testing/KundeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KundeTest/src/test/java/oslomet/testing/Enhetstester.java" beforeDir="false" afterPath="$PROJECT_DIR$/KundeTest/src/test/java/oslomet/testing/Enhetstester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,6 +36,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KundeTest (1)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -56,11 +54,28 @@
       <option name="presentableId" value="Default" />
       <updated>1674645075733</updated>
       <workItem from="1674645077009" duration="632000" />
-      <workItem from="1674646967053" duration="755000" />
+      <workItem from="1674646967053" duration="1778000" />
+      <workItem from="1674650183926" duration="598000" />
+      <workItem from="1674717249451" duration="112000" />
+      <workItem from="1674718042663" duration="19000" />
+      <workItem from="1674725207715" duration="356000" />
+      <workItem from="1674725800641" duration="313000" />
     </task>
+    <task id="LOCAL-00001" summary="sdz">
+      <created>1674649194456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674649194459</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdz" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdz" />
   </component>
 </project>
